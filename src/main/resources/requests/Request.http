@@ -1,0 +1,8 @@
+PUT localhost:8080/api/student/2/update
+Content-Type: application/json
+
+{
+  "id": 798798,
+  "lastName": "Mahmoudi",
+  "firstName": "Pouya"
+}
